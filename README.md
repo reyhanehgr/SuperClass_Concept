@@ -1,0 +1,1 @@
+In this project, I implemented a simple code to demonstrate the concept of inheritance and superclass in object-oriented programming. I created a superclass, representing a general shape, and then developed two subclasses: Circle and Rectangle. Each subclass inherits properties and methods from the superclass and adds specific attributes relevant to its unique shape.
